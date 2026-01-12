@@ -1,22 +1,18 @@
 ### Hi there 👋
 
-export const GrowthProfile = {
-  name: "Matt",
-  profession: "Growth Lead",
+const userProfile = {
+  "id": "Matt",
+  "role": "Growth Lead",
+  "tech_literacy": "Prompt-Based", // The joke
   
-  // My coding journey began exactly when Claude Code launched
-  generation: "AI-Native Developer",
-
-  preferredStack: [
-    "Analytics",
-    "Paid Media",
-    "Automation"
-  ],
-
-  // I understand the logic, Claude handles the syntax
-  languages: [
-    "Python",     // generated
-    "SQL",        // optimized
-    "JavaScript"  // copy-pasted
+  "stack": {
+    "primary": ["Analytics", "Paid Media", "Automation"],
+    "coding_method": "Describing problems to LLMs"
+  },
+  
+  "languages": [
+    "Python",
+    "SQL", 
+    "JavaScript"
   ]
-};
+}
