@@ -1,18 +1,19 @@
-### Hi there 👋
+### 👋 Hi there
 
-const userProfile = {
-  "id": "Matt",
-  "role": "Growth Lead",
-  "tech_literacy": "Prompt-Based", // The joke
-  
-  "stack": {
-    "primary": ["Analytics", "Paid Media", "Automation"],
-    "coding_method": "Describing problems to LLMs"
-  },
-  
-  "languages": [
-    "Python",
-    "SQL", 
-    "JavaScript"
-  ]
+```swift
+public struct DeveloperProfile {
+    let name = "Matt"
+    
+    // I technically started coding last Tuesday
+    let experienceLevel = "Post-Claude-Code Era"
+    
+    // My primary programming language is actually English
+    let realTechStack = ["Prompt Engineering", "Copy/Paste", "Patience"]
+    
+    // Things I can build (as long as the AI is online)
+    let capabilities = [
+        "Full Stack Apps", 
+        "Complex Algorithms", 
+        "Bugs that confuse even the AI"
+    ]
 }
