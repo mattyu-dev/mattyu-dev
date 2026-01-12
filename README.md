@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+class GrowthProfile:
 profile = {
     "name": "Matt",
     "profession": "Growth Lead",
