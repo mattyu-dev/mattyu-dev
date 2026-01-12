@@ -2,7 +2,7 @@
 
 ```javascript
 const devProfile = {
-    name: "Your Name",
+    name: "Mattyu",
     experience_level: "Claude Code Era",
     
     // The moment I realized I could just ask the computer to do it
