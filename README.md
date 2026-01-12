@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**mattyu-dev/mattyu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const devProfile = {
+    name: "Your Name",
+    experience_level: "Claude Code Era",
+    
+    // The moment I realized I could just ask the computer to do it
+    origin_story: "Started coding the day Claude Code dropped",
+    
+    core_skills: [
+        "Prompt Engineering", 
+        "Copy/Pasting Error Logs", 
+        "Begging the LLM to fix the bug"
+    ],
+    
+    tools: {
+        editor: "VS Code",
+        brain: "Claude 3.7 Sonnet",
+        coffee: "High Intake"
+    }
+};
