@@ -1,5 +1,6 @@
 # Hi, I'm Mattyu! 👋
 **Growth & Performance Lead** _(multi-millions/year managed)_
+
 I scale acquisition with a very simple religion: **measurement first, vibes second**.  
 
 
@@ -10,4 +11,5 @@ I scale acquisition with a very simple religion: **measurement first, vibes seco
 
 ## What you’ll find here
 Small, practical tools for growth teams: reporting helpers, experiment trackers, and the occasional:
+
 **“I rebuilt this SaaS because I didn’t want to pay for it”**.
